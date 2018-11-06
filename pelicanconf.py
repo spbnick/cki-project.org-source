@@ -15,7 +15,7 @@ THEME_COLOR = 'red'
 SIDEBAR_DISPLAY = ['about', 'categories', 'tags']
 SIDEBAR_ABOUT = "The CKI Project mission is to find bugs before they are committed to the Linux kernel."
 COPYRIGHT = "CKI Project"
-LOGO = 'cookie.png'
+LOGO = 'logo.png'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = 'feed'
